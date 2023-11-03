@@ -25,3 +25,12 @@ The trained model can be integrated into a chrome extension or other application
 Research paper describing the phishing website detection system.
 This provides an overview of the machine learning based phishing detection project documented in the paper. The README gives context for the code and models to anyone using the repository. Let me know if you would like me to modify or add anything.
 
+# Screenshots
+
+<img width="1440" alt="image" src="https://github.com/imanbanda/Phishing-Detect-Extension-/assets/91423754/70747f6b-d68c-48e2-9221-a31ca9728076">
+
+
+<img width="1440" alt="image" src="https://github.com/imanbanda/Phishing-Detect-Extension-/assets/91423754/02b25828-7203-4e96-ad68-e843dd8104c6">
+
+
+
