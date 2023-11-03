@@ -1,9 +1,9 @@
 # Phishing-Detect-Extension
-Phishing Detect Extension using Machine Learning
+Phishing Detect Extension using Machine Learning(Screenshots Attached below)
 
 This repository contains code and models for detecting phishing websites using machine learning techniques. The goal is to classify whether a given website URL is a phishing site or not.
 
-<u>**Background:-**</u>
+**Background:-**
 Phishing is a prevalent cyber threat where attackers create fake websites impersonating trusted brands to steal user data and credentials. As phishing attacks are becoming more sophisticated, traditional blacklist based techniques prove inadequate. This project explores using machine learning for more robust and generalizable phishing detection based on website features.
 
 **Data:-**
