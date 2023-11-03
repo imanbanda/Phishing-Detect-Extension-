@@ -32,5 +32,13 @@ This provides an overview of the machine learning based phishing detection proje
 
 <img width="1440" alt="image" src="https://github.com/imanbanda/Phishing-Detect-Extension-/assets/91423754/02b25828-7203-4e96-ad68-e843dd8104c6">
 
+![image](https://github.com/imanbanda/Phishing-Detect-Extension-/assets/91423754/4237f26f-24df-4842-82b7-eb5d6cf6a6cd)
+
+
+![image](https://github.com/imanbanda/Phishing-Detect-Extension-/assets/91423754/302da11c-d3d7-4573-b408-411d2a6b5d93)
+
+
+
+
 
 
